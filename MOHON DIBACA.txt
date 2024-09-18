@@ -1,0 +1,7 @@
+- jangan lupa untuk merubah coding koneksi.php dan configdb.php sesuaikan dengan nama database dan mysql anda
+- coding menggunakan struktur php 5.
+- jika anda menggunakan PHP 7 Keatas, silahkan Extract PATCH PHP 7.rar
+- untuk bantuan instalasi silahkan install aplikasi anydesk dan hubungi admin
+
+Bantuan silahkan hubungi admin :
+Russter Vera Jesmy - 087878877109
